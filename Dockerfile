@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster  # Replace with your desired Python version
+FROM python:3.8.6-slim-buster
 
 WORKDIR /code
 
